@@ -11,5 +11,9 @@ $./josephus 5 3
 
 ========
 Reference cmake
+Three key parameters:
+n: the total number of the people who take part in
+s: the people who start the game
+m: the counting number
 
 
